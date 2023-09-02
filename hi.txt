@@ -17,7 +17,7 @@
 <body>
  <center><h1>Travel Go!</h1></center>
  <center><img src="detailed-travel-logo_23-2148632074.avif" style="width:400px; height:350px"></center>
-  <p>Welcome to <b>Travel Go!</b> . This is the  official site of <b>Travel Go!</b> travel agency.
+  <p>Welcome to <b>Travel Go!</b> . This is the  official website of <b>Travel Go!</b> travel agency.
   Travel Go! is a org that which is the an official site of Travel Go! will help you in your tours seclections , hotel booking , etc with in your own budget. So make no more delay and book your first tour package . you will also get 10% dis count on your first buy. So go bellow and buy the packge with <b>Travel Go!</b></p>
 
    <div class="container">
